@@ -1,0 +1,12 @@
+integer(int),String(str),float(float)
+Boolean(bool),complex(complex)
+
+list= list() or []
+tuple= tuple() or ()
+set= set() or {}
+dict= dict() or {
+    key:"value"
+}
+
+
+W3 school
